@@ -1,4 +1,5 @@
-Inspired by [this implementation](https://github.com/code-sketch/memory-game)
+Inspired by [this implementation](https://github.com/code-sketch/memory-game)   
+Play/Demo [here](https://shreya-7.github.io/JS-Games/piano/index.html)
 
 **Changes made from the original implementation:**
 
