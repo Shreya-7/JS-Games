@@ -1,6 +1,7 @@
 Made by using [AudioSynth](https://github.com/keithwhor/audiosynth) by Keith Horwood
 
-Inspired by [this keyboard implementation](https://github.com/1000mileworld/Piano-Keyboard)
+Inspired by [this keyboard implementation](https://github.com/1000mileworld/Piano-Keyboard)   
+Play/Demo [here](https://shreya-7.github.io/JS-Games/piano/index.html)
 
 **Changes made from the original implementation:**
 
