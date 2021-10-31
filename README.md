@@ -3,3 +3,4 @@ Small mini-games made using vanilla JS and plain CSS for better understanding of
 Current games with their demo links:
 - Piano (https://shreya-7.github.io/JS-Games/piano/index.html)   
 - Memory Card Game (https://shreya-7.github.io/JS-Games/memory-game/index.html)
+- Frogger (https://shreya-7.github.io/JS-Games/frogger/index.html)
